@@ -30,6 +30,6 @@ func main() {
 	fmt.Println(values[0])
 	fmt.Println(values[1])
 	fmt.Println(values[2])
-	fmt.Println(values[3])
+	fmt.Println(values[3]) 
 	//test
 }
