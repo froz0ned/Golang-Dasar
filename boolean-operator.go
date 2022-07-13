@@ -20,7 +20,7 @@ import "fmt"
 // Operasi ! (negasi) hanya untuk satu operator boolean klo != itu untuk 2 operator != itu adalah (bukan samadengan)
 //-----------------
 // !true = false
-// !flase = true
+// !false = true
 //------------------
 
 func main() {

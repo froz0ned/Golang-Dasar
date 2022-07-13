@@ -25,11 +25,11 @@ func main() {
 		"Aritonang",
 	}
 	values[1] = "greek"      // Function untuk mengubah array index yang kita mau disini saya ubah index ke 1
-	fmt.Println(len(values)) //Function untuk menghitung panjang array yang sudah kita buat diatas. walaupun tidak ada datanya tapi jika arraynya sudah di buat untuk menyimpan 5 array maka akan tercetak 5 sebagai panjang array tsb
+	fmt.Println(len(values)) //Function untuk menghitung panjang array yang sudah kita buat diatas. walaupun tidak ada datanya tapi jika arraynya sudah di buat untuk menyimpan 5 array maka akan tercetak 4 sebagai panjang array tsb kenapa tidak 5 karena 1 lagi adalah reserved
 
 	fmt.Println(values[0])
 	fmt.Println(values[1])
 	fmt.Println(values[2])
-	fmt.Println(values[3]) 
+	fmt.Println(values[3])
 	//test
 }
